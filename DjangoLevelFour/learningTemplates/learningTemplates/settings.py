@@ -25,7 +25,7 @@ SECRET_KEY = '0sccl0g8l@mu!oyuzv@x-(uag=u9%0&daabhu%!iul=p69)+1_'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['alphabeta.pythonanywhere.com']
 
 
 # Application definition
